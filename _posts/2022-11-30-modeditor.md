@@ -1,3 +1,8 @@
+---
+layout: single
+title:"MOD Editor"
+---
+
 P(중국어 ‘도’).vbs 를 실행하면 RPGViewer가 실행된다.
 
 삼국지5와 영걸전 메뉴 항목은 각각 Koei 항목 밑에서 찾는다.
