@@ -102,9 +102,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "My Blog"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "Thank you for **visiting** this blog."
   location         : "Somewhere"
   email            :
   links:
