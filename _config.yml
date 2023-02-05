@@ -98,7 +98,14 @@ analytics:
   google:
     tracking_id          :"G-Q2NMCC2WD9"
     anonymize_ip         :false # true, false (default)
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-Q2NMCC2WD9"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
+  gtag('config', 'G-Q2NMCC2WD9');
+</script>
 
 # Site Author
 author:
